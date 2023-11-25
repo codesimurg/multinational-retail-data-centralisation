@@ -1,2 +1,2 @@
 # multinational-retail-data-centralisation
-A project for aicore bootcamp
+An AICore project for centralisation of multinational retail company's  sales data. The project is based on a scenario of rendering the data accesible for the current members of team for business metrics. The multi stage project is to develop and showcase the skills learned through AICore training including database creation and management, data analysis and data visualisation.
